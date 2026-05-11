@@ -52,7 +52,7 @@ let pingingDevices = new Set();
 let currentSessionId = null;
 let currentSessionPath = null;
 
-const PING_PROXY_URL = "https://script.google.com/macros/s/AKfycbzUv35AT0wIms3nE5EdbeehvuRM2qlx761NeP46oJjpvFVaqZZBqeZ5ZDSxfgR8OLZT/exec"; 
+const PING_PROXY_URL = "https://script.google.com/macros/s/AKfycbxqtVao_rAqAMOD76PzQ6mWQ82jpGEZU8mk0yfchLX6FpK0nLNShFiqzr7Lh0vgBtMe/exec"; 
 let pingVisualTimeout = null;
 
 // Initialize Icons on First Load
